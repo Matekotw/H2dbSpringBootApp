@@ -10,6 +10,7 @@
 <p4>  "id org.springframework.boot" version"3.3.3</p4>
 <br>
 <p5> "io.spring.dependency-management" version"1.1.6" </p5>
+<br>
 <p6> 'org.springframework.boot:spring-boot-starter-data-jpa'</p6>
 <br>
 <p7> 'org.projectlombok:lombok:1.18.34'</p7>
