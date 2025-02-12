@@ -7,11 +7,12 @@
 <p2>Requirements : </p2>
 <br>
 <br>
-<p3> 'org.springframework.boot:spring-boot-starter-data-jpa'</p3>
+<p4>id org.springframework.boot" version"3.3.3</p3>
+<p6> 'org.springframework.boot:spring-boot-starter-data-jpa'</p3>
 <br>
-<p4> 'org.projectlombok:lombok:1.18.34'</p4>
+<p7> 'org.projectlombok:lombok:1.18.34'</p4>
 <br>
-<p5>'org.springframework.boot:spring-boot-starter-data-jpa' </p5>
+<p8>'org.springframework.boot:spring-boot-starter-data-jpa' </p5>
 <br>
 <p6>'org.springframework.boot:spring-boot-starter-test'</p6>
 </head>
