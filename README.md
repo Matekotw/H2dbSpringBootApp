@@ -4,7 +4,7 @@
 <p1>A simple application using the H2 database and Spring Boot to help organize your books</p1>
 <br>
 <br>
-<p2>Requirements</p2>
+<p2>Requirements : </p2>
 <br>
 <br>
 <p3> 'org.springframework.boot:spring-boot-starter-data-jpa'</p3>
