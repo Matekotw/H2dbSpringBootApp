@@ -11,13 +11,15 @@
 <br>
 <p5> "io.spring.dependency-management" version"1.1.6" </p5>
 <br>
-<p6> 'org.springframework.boot:spring-boot-starter-data-jpa'</p6>
+<p6> Dependencies </p6>
 <br>
-<p7> 'org.projectlombok:lombok:1.18.34'</p7>
+<p7> 'org.springframework.boot:spring-boot-starter-data-jpa'</p7>
 <br>
-<p8>'org.springframework.boot:spring-boot-starter-data-jpa' </p8>
+<p8> 'org.projectlombok:lombok:1.18.34'</p8>
 <br>
-<p9>'org.springframework.boot:spring-boot-starter-test'</p9>
+<p9>'org.springframework.boot:spring-boot-starter-data-jpa' </p>
+<br>
+<p10>'org.springframework.boot:spring-boot-starter-test'</p10>
 </head>
 <body>
   
